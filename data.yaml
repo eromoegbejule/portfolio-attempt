@@ -1,0 +1,18 @@
+name: Eromo Egbejule
+bio: I'm a journalist and photographer
+links:
+  - target: mailto:eromo.egbejule@gmail.com
+    text: 📧 email
+  - target: https://eromoegbejule.com
+    text: 🏠 homepage
+  - target: https://twitter.com/eromoegbejule
+    text: '@eromoegbejule'
+projects:
+  - type: gdoc
+    title: First Sample Project
+    slug: first-project
+    url: 
+  - type: gdoc
+    title: Second Sample Project
+    slug: second-project
+    url: 
