@@ -1,0 +1,28 @@
+{
+    "fonts": [
+        {
+            "aifont": "FeastofFleshBB",
+            "family": "Arial",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Apple-Chancery",
+            "family": "Arial",
+            "weight": "200",
+            "style": ""
+        },
+        {
+            "aifont": "HelveticaNeue-Bold",
+            "family": "Helvetica Neue",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "HelveticaNeue",
+            "family": "Helvetica Neue",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
